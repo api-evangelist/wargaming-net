@@ -1,0 +1,32 @@
+aid: wargaming-net
+name: Wargaming.net
+description: "Wargaming.net info and stats"
+url: https://developers.wargaming.net/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Wargaming.net
+    description: "Wargaming.net info and stats"
+    humanURL: https://developers.wargaming.net/
+    baseURL: https://developers.wargaming.net/
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://developers.wargaming.net/
+common:
+  - type: Website
+    url: https://developers.wargaming.net/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
