@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developers.wargaming.net/
 common:
+  - type: DomainSecurity
+    url: security/wargaming-net-domain-security.yml
   - type: Website
     url: https://developers.wargaming.net/
   - type: PublicAPIsListing
