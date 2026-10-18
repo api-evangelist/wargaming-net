@@ -40,7 +40,8 @@ apis:
   - name: Wargaming.net
     description: "Wargaming.net info and stats"
     humanURL: https://developers.wargaming.net/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
